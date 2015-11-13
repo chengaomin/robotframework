@@ -11,6 +11,7 @@ dhhhhhhhhh
 9.有截屏插件无法截屏，提示要下载，无法下载http://tudu.com/download/activex_prtscrn_18706.exe。
 Q9JWR-3QT34-TJFMV-WQXX2-MVRXP   
 
+xxxxxxxxx
 
 10.考勤应用 设置成功，首页显示考勤应用的字是乱码
 11.发送一个带审批的图度，然后审批人不同意，发起人修改再次发送。审批人变成了2个均为同一审批人的流程。（正式环境OK）
